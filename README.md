@@ -1,4 +1,4 @@
-# 📋 TaskFlow — Gerenciador de Tarefas Moderno
+# 📋 ToDq List — Gerenciador de Tarefas Moderno
 
 Um aplicativo de lista de tarefas (*To-Do List*) moderno, elegante e responsivo, desenvolvido com **React** e **TypeScript**, com foco total em experiência do usuário (UX) e em um design limpo estilo SaaS.
 
