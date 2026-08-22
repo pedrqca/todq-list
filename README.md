@@ -36,7 +36,7 @@ Este projeto foi construído utilizando um ecossistema moderno de desenvolviment
 
 Você pode acessar a versão em produção da aplicação hospedada na Vercel através do link abaixo:
 
-👉 **[Link do Projeto na Vercel](#)** *(substitua pelo seu link da Vercel após o deploy)*
+👉 **https://todq-list.vercel.app/**
 
 ---
 
